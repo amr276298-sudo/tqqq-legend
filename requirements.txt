@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+yfinance
+ta
+pandas
+Flask
+lxml
+requests
